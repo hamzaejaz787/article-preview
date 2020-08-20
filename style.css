@@ -31,7 +31,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: auto;
+  padding: 1em;
 }
 
 .card {
@@ -85,7 +85,6 @@ h1 {
     flex-direction: column;
   }
   .product__sidebar img {
-    max-height: 100%;
     max-width: 500px;
   }
 
